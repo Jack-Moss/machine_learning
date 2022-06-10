@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="demo_dump.buffer.Icm29048" />
+          <option value="demo_dump.buffer.ICM20948" />
+          <option value="I2C_Icm29048.machine" />
+          <option value="main_inactive.machine" />
+          <option value="unit_test.machine" />
+          <option value="np.array" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
